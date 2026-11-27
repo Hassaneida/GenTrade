@@ -1,0 +1,6 @@
+{
+  "name": "Meridian Crypto Paper Trading Terminal",
+  "description": "Real-time institutional crypto paper trading simulator with $100,000 virtual capital, live market data, interactive candlestick charts, and precision order execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
